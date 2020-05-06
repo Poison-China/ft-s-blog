@@ -1,0 +1,78 @@
+body {
+    background-color: #EFEFEF;
+    /*阿里云OOS图片*/
+    /*background-image: url("https://web-staticfile.oss-cn-beijing.aliyuncs.com/images/bg.jpg");*/
+    /*Bing每日一图接口*/
+    /*background-image: url("https://cn.bing.com/th?id=OHR.LastJedi_ZH-CN8789881870_1920x1080.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+
+    /*background-position: center 0;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-ms-background-size: cover;*/
+
+
+}
+
+/*html{*/
+/*    background-color: #EFEFEF;*/
+/*}*/
+
+.main {
+    margin-top: 20px;
+}
+
+.font-18px{
+    font-size: 18px;
+}
+
+.bg-color-idea{
+    background-color: #2B2B2B;
+}
+
+.card-style{
+    margin: 10%;
+    border-radius: 15px;
+}
+
+.font-weight-max{
+    font-weight: 700;
+}
+
+.nav-color{
+    background-color: #ffffff;
+}
+
+
+.font-color-blue{
+    color: #1B52A7;
+}
+
+.nav-font-style{
+    font-weight: 600;
+    color: #505050;
+}
+
+.font-size-25px{
+    font-size: 22px;
+}
+
+.font-size-14px{
+    font-size: 14px;
+}
+
+.img-round{
+    height: 36px;
+    width: 36px;
+    margin-right: 14px;
+}
+
+#carousel-style{
+    /*width: 790px;*/
+    /*height: 336px;*/
+    /*margin-left: -100px;*/
+}
